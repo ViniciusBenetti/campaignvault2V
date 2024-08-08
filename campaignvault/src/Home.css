@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#home{
+    position: absolute;
+    width: 1460px;
+    height: 904px;
+    top: 10px;
+    left: 10px;
+    background: #FFF8F2;
+    border: 2px solid #FF9200
+}
+#Group-6{
+    position: absolute;
+    width: 1099px;
+    height: 230px;
+    top: 345px;
+    left: 171px;
+    gap: 0px;
+    opacity: 0px;
+}
+#Group-6 h1{
+    font-family: FONTSPRING DEMO - Lufga Black;
+    font-size: 149.1px;
+    font-weight: 900;
+    line-height: 194.57px;
+    text-align: left;
+    color: #FF7A00;
+}
+#Group-6 h2{
+    height: 60px;
+    gap: 0px;
+    opacity: 0px;
+    font-family: FONTSPRING DEMO - Lufga Light;
+    font-size: 37.05px;
+    font-weight: 300;
+    line-height: 48.36px;
+    letter-spacing: -0.015em;
+    text-align: center;
+    color: black;
+
+    
+}
+#blog{
+    position: absolute;
+    width: 225px;
+    height: 90px;
+    top: 814px;
+    left: 1141px;
+    padding: 0px 89px 0px 0px;
+    gap: 0px;
+    border-radius: 43.04px 0px 0px 0px;
+    opacity: 0px;
+    color: var(--orange-claro, #FF9200);
+    border: 2px solid #FF9200;
+    background: black;
+
+
+}
+#blog img{
+    position: relative;
+    left: 30%;
+}
+#Group-7{
+    position: absolute;
+    width: 320.63px;
+    height: 28px;
+    top: 62.62px;
+    left: 69px;
+    padding: 0px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+#Group-7 a{
+    font-family: FONTSPRING DEMO - Lufga ExtraLight;
+    font-size: 21.72px;
+    font-weight: 200;
+    line-height: 28.35px;
+    letter-spacing: -0.015em;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    margin-left: 86px;
+    height: 28px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+#header{
+    position: absolute;
+    width: 357px;
+    height: 60px;
+    top: 47px;
+    left: 1033px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+#cards{
+    position: absolute;
+    width: 733.73px;
+    height: 171px;
+    top: 722px;
+    left: 52px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+#cards > *:nth-child(2),
+#cards > *:nth-child(3) {
+    margin-left: 15.3px;
+}
+#Group-8{
+    position: absolute;
+    width: 429px;
+    height: 328px;
+    top: 40px;
+    left: 528px;
+    gap: 0px;
+    opacity: 0px;
+
+}
