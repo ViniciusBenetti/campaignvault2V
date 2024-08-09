@@ -7,21 +7,17 @@ import Frame26 from './res/images/Frame26.svg';
 import Frame27 from './res/images/Frame27.svg';
 import Frame24 from './res/images/Frame24.svg';
 import pigup from './res/images/pigup.gif';
+import TitleHome from './res/images/TitleHome.svg';
 
 
 export default function Home(){
     return(
         <div id="home">
              <img  alt="pigup" id='Group-8' src={pigup}/>
-            <div id="Group-6">
-                
-                <h1>CampaignVault</h1>
-                <h2>Uma ferramenta que promete te deixar rico.</h2>
-                
-            </div>
+            <img id="Group-6" alt="group 6" src={TitleHome}></img>
             <div id="header">
-                <Link to='/Login' id='entrar'><img alt="frame 19" id="frame19" src={Frame19}></img></Link>
-                <Link to='/Cadastro' id='cadastro'><img alt="frame 20" id="frame20" src={Frame20}></img></Link>
+                <Link to='/Login' ><img alt="frame 19" id="frame19" src={Frame19}></img></Link>
+                <Link to='/Cadastro' ><img alt="frame 20" id="frame20" src={Frame20}></img></Link>
             </div>
             <div id="cards">
                 <Link to='/'><img alt="frame 26"  src={Frame26}></img></Link>

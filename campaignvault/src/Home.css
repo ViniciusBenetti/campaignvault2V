@@ -10,6 +10,7 @@
     left: 10px;
     background: #FFF8F2;
     border: 2px solid #FF9200;
+
 }
 #Group-6{
     position: absolute;
@@ -18,7 +19,8 @@
     top: 345px;
     left: 171px;
     gap: 0px;
-    opacity: 0px;
+    opacity: 0px;    
+
 }
 #Group-6 h1{
     font-family: FONTSPRING DEMO - Lufga Black;
@@ -57,10 +59,12 @@
     background: black;
 
 
+
 }
 #blog img{
     position: relative;
     left: 30%;
+    cursor: pointer;
 }
 #Group-7{
     position: absolute;
@@ -115,8 +119,8 @@
 }
 #Group-8{
     position: absolute;
-    width: 429px;
-    height: 328px;
+    width: 329px;
+    height: 228px;
     top: 40px;
     left: 528px;
     gap: 0px;

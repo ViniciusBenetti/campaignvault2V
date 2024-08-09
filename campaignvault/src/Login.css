@@ -29,10 +29,12 @@
     background: black;
 
 
+
 }
 #blog img{
     position: relative;
     left: 30%;
+    cursor: pointer;
 }
 #Group-7{
     position: absolute;
@@ -62,7 +64,7 @@
 }
 #header{
     position: absolute;
-    width: 257px;
+    width: 227px;
     height: 60px;
     top: 47px;
     left: 1233px;
@@ -70,6 +72,7 @@
     opacity: 0px;
 
 }
+
 #Group-6{
     position: absolute;
     width: 613px;
@@ -90,17 +93,105 @@
     opacity: 0px;
 
 }
-#Group-4{
 
+
+#Group-1{
     position: absolute;
+    height: 169px;
+    top: 330px;
     width: 495px;
-    height: 517px;
-    top: 196px;
     left: 835px;
     gap: 0px;
     opacity: 0px;
     display: flex;
     flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#email{
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #FF7A00;
+    width: 495px;
+    
 
 }
+#password{
+    background: transparent;
+    border: none;
+    outline: none;
+    border-bottom: 2px solid #FF7A00;
+    width: 495px;
+}
+#Group-1 a{
+    font-family: FONTSPRING DEMO - Lufga Light;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 20.88px;
+    letter-spacing: 0.1em;
+    text-align: left;
+    color: var(--INPUTS, #797C7E);
+    align-self: flex-end;
+
+    
+}
+#h1Login{
+    position: absolute;
+    font-family: FONTSPRING DEMO - Lufga ExtraBold;
+    font-size: 48px;
+    font-weight: 800;
+    line-height: 62.64px;
+    text-align: left;
+    width: 249px;
+    height: 63px;
+    top: 196px;
+    left: 958px;
+    gap: 0px;
+    opacity: 0px;
+
+    
+}
+#Frame21{
+    position: absolute;
+    top: 548px;
+    left: 999px;
+
+}
+
+#Group-3{
+    position: absolute;
+    width: 376px;
+    height: 21px;
+    top: 638px;
+    left: 895px;
+    gap: 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0px;
+
+
+}
+#facebook{
+    position: absolute;
+    width: 42px;
+    height: 40px;
+    top: 673px;
+    left: 1100px;
+    gap: 0px;
+    opacity: 0px;
+    cursor: pointer;
+
+}
+#google{
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    top: 673px;
+    left: 1024px;
+    gap: 0px;
+    opacity: 0px;
+    cursor: pointer;
+
+}
+
 
