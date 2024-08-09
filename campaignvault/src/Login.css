@@ -2,7 +2,8 @@
     margin: 0;
     padding: 0;
 }
-#home{
+
+#login{
     position: absolute;
     width: 1460px;
     height: 904px;
@@ -10,37 +11,8 @@
     left: 10px;
     background: #FFF8F2;
     border: 2px solid #FF9200;
-}
-#Group-6{
-    position: absolute;
-    width: 1099px;
-    height: 230px;
-    top: 345px;
-    left: 171px;
-    gap: 0px;
-    opacity: 0px;
-}
-#Group-6 h1{
-    font-family: FONTSPRING DEMO - Lufga Black;
-    font-size: 149.1px;
-    font-weight: 900;
-    line-height: 194.57px;
-    text-align: left;
-    color: #FF7A00;
-}
-#Group-6 h2{
-    height: 60px;
-    gap: 0px;
-    opacity: 0px;
-    font-family: FONTSPRING DEMO - Lufga Light;
-    font-size: 37.05px;
-    font-weight: 300;
-    line-height: 48.36px;
-    letter-spacing: -0.015em;
-    text-align: center;
-    color: black;
 
-    
+
 }
 #blog{
     position: absolute;
@@ -87,39 +59,48 @@
     gap: 0px;
     opacity: 0px;
 
-
 }
 #header{
     position: absolute;
-    width: 357px;
+    width: 257px;
     height: 60px;
     top: 47px;
-    left: 1033px;
+    left: 1233px;
     gap: 0px;
     opacity: 0px;
 
 }
-#cards{
+#Group-6{
     position: absolute;
-    width: 733.73px;
-    height: 171px;
-    top: 722px;
-    left: 52px;
+    width: 613px;
+    height: 127.73px;
+    top: 452.12px;
+    left: 98px;
     gap: 0px;
     opacity: 0px;
 
 }
-#cards > *:nth-child(2),
-#cards > *:nth-child(3) {
-    margin-left: 15.3px;
-}
-#Group-8{
+#pigup{
     position: absolute;
-    width: 429px;
-    height: 328px;
-    top: 40px;
-    left: 528px;
+    width: 239.29px;
+    height: 203.59px;
+    top: 282px;
+    left: 297.13px;
     gap: 0px;
     opacity: 0px;
 
 }
+#Group-4{
+
+    position: absolute;
+    width: 495px;
+    height: 517px;
+    top: 196px;
+    left: 835px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+
+}
+
