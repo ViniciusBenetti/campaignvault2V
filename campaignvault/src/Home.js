@@ -30,7 +30,8 @@ export default function Home(){
             <Link to='/Criadores'>Criadores</Link>
             </div>
             <div id="blog">
-                <img alt="blogSVG"  src={blog}/>
+            <Link to='/Blog'><img alt="blogSVG"  src={blog}/></Link>
+                
             </div>
         </div>
     )

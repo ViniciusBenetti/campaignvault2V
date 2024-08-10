@@ -1,0 +1,207 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#blogblog{
+    position: absolute;
+    width: 1460px;
+    height: 904px;
+    top: 10.5px;
+    left: 10px;
+    gap: 0px;
+    background: #FFF8F2;
+    border: 2px solid #FF9200;
+    opacity: 0px;
+
+}
+#Group-7BLOG{
+    position: absolute;
+    width: 320.63px;
+    height: 28px;
+    top: 62.62px;
+    left: 69px;
+    padding: 0px;
+    gap: 0px;
+    opacity: 0px;
+    
+}
+#Group-7BLOG a{
+    font-family: FONTSPRING DEMO - Lufga ExtraLight;
+    font-size: 21.72px;
+    font-weight: 200;
+    line-height: 28.35px;
+    letter-spacing: -0.015em;
+    text-align: left;
+    text-decoration: none;
+    color: black;
+    margin-left: 86px;
+    height: 28px;
+    gap: 0px;
+    opacity: 0px;
+
+
+}
+#headerBLOG{
+    position: absolute;
+    width: 357px;
+    height: 60px;
+    top: 47px;
+    left: 1033px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+
+}
+#searchBLOG{
+    position: absolute;
+    width: 841px;
+    height: 70px;
+    top: 183px;
+    left: 289px;
+    gap: 0px;
+    opacity: 0px;
+    background: #D8D8D8;
+    border-radius: 30px;
+    outline: none;
+    border: none;
+    padding-left: 20px;
+    color: gray;
+
+
+}
+#searchButtonBLOG{
+    position: absolute;
+    width: 98px;
+    height: 46px;
+    top: 195px;
+    left: 1035px;
+    gap: 0px;
+    border-radius: 30px 0px 0px 0px;
+    opacity: 0px;
+    z-index: 1;
+    cursor: pointer;
+
+}
+#searchIconBLOG{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 206px;
+    left: 1072px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 2;
+    cursor: pointer;
+
+}
+#filterBLOG{
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 206px;
+    left: 1000px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 2;
+    cursor: pointer;
+}
+#contentBLOG{
+    position: absolute;
+    width: 1236px;
+    height: 571px;
+    top: 313px;
+    left: 102px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+
+}
+#h3blog{
+    position: absolute;
+    width: 117px;
+    height: 26px;
+    top: 313px;
+    left: 106px;
+    gap: 0px;
+    opacity: 0px;
+    z-index: 3;
+    font-family: FONTSPRING DEMO - Lufga Light;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 26.1px;
+    text-align: left;
+
+
+}
+#h3blog span{
+    color: #FF9200;
+}
+#Group-30BLOG{
+    width: 1236px;
+    height: 534px;
+    top: 350px;
+    left: 102px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+
+}
+#card-lastersBLOG{
+    width: 743px;
+    height: 524px;
+    top: 350px;
+    left: 102px;
+    padding: 11.17px 27.21px 0px 3.63px;
+    gap: 0px;
+    opacity: 0px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    overflow-y: scroll;
+
+}
+#card-elementBLOG{
+    width: 232.16px;
+    height: 325.91px;
+    gap: 0px;
+    border-radius: 12.58px;
+    opacity: 0px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    box-shadow: 0px 2.52px 6.29px 0px #0000001A;
+    background: black;
+    color: white;
+
+
+}
+#card-lastersBLOG::-webkit-scrollbar{
+
+    background: white;
+    width: 6px;
+    
+
+}
+#card-lastersBLOG::-webkit-scrollbar-thumb{
+    width: 6px;
+    height: 253px;
+    gap: 0px;
+    border-radius: 50px;
+    opacity: 0px;
+    background: #FF7A00;
+
+}
+#card-elementBLOG2{
+    position: relative;
+    width: 405px;
+    height: 516px;
+    left: 122px;
+    gap: 0px;
+    border-radius: 12.58px;
+    opacity: 0px;
+    box-shadow: 0px 2.52px 6.29px 0px #0000001A;
+    background: black;
+    color: white;
+
+}

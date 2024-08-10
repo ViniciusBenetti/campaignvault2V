@@ -101,6 +101,7 @@
     left: 1033px;
     gap: 0px;
     opacity: 0px;
+    display: flex;
 
 }
 #cards{

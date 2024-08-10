@@ -13,31 +13,31 @@ import google from './res/images/google.svg'
 export default function Cadastro(){
     return(
         <div id="cadastro">
-             <img  id="pigup" alt="pigup"  src={pigup}></img>
-             <img  id="Group-6" alt="Group 6"  src={Group6}></img>
-             <img  id="Group-3" alt="Group 3"  src={Group3}></img>
-             <Link to="/Loginfb"><img  id="facebook" alt="facebook"  src={facebook}></img></Link>
-             <Link to="/Logingo"><img  id="google" alt="google"  src={google}></img></Link>
+             <img  id="pigupCADASTRO" alt="pigup"  src={pigup}></img>
+             <img  id="Group-6CADASTRO" alt="Group 6"  src={Group6}></img>
+             <img  id="Group-3CADASTRO" alt="Group 3"  src={Group3}></img>
+             <Link to="/Loginfb"><img  id="facebookCADASTRO" alt="facebook"  src={facebook}></img></Link>
+             <Link to="/Logingo"><img  id="googleCADASTRO" alt="google"  src={google}></img></Link>
 
 
-        <div id="Group-7">
+        <div id="Group-7CADASTRO">
             <Link to='/Contato'>Contato</Link>
             <Link to='/Sobre'>Sobre</Link>
             <Link to='/Criadores'>Criadores</Link>
             </div>
-            <div id="header">
+            <div id="headerCADASTRO">
                 <Link to='/Login'><img alt="frame 42" id="frame42" src={Frame42}></img></Link>
             </div>
             <h1  id='h1Cadastro'>Vamos Começar</h1>
-            <div id="Group-1">
+            <div id="Group-1CADASTRO">
                 <input type="text" placeholder="Nome"></input>
                 <input type="email" placeholder="Email"></input>
                 <input type="password" placeholder="Password"></input>
                 <input type="tel" placeholder="Celular"></input>
             </div>
-            <Link to='/CadastroPressed'><img  id="btnCadastro" alt="btnCadastro"  src={btnCadastro}></img></Link>
-            <div id="blog">
-                <img alt="blogSVG"  src={blog}/>
+            <Link to='/CadastroPressed'><img  id="btnCadastroCADASTRO" alt="btnCadastro"  src={btnCadastro}></img></Link>
+            <div id="blogCADASTRO">
+            <Link to='/Blog'><img alt="blogSVG"  src={blog}/></Link>
             </div>
 
         </div>

@@ -14,7 +14,7 @@
 
 
 }
-#blog{
+#blogLOGIN{
     position: absolute;
     width: 225px;
     height: 90px;
@@ -31,12 +31,12 @@
 
 
 }
-#blog img{
+#blogLOGIN img{
     position: relative;
     left: 30%;
     cursor: pointer;
 }
-#Group-7{
+#Group-7LOGIN{
     position: absolute;
     width: 320.63px;
     height: 28px;
@@ -47,7 +47,7 @@
     opacity: 0px;
     
 }
-#Group-7 a{
+#Group-7LOGIN a{
     font-family: FONTSPRING DEMO - Lufga ExtraLight;
     font-size: 21.72px;
     font-weight: 200;
@@ -62,7 +62,7 @@
     opacity: 0px;
 
 }
-#header{
+#headerLOGIN{
     position: absolute;
     width: 227px;
     height: 60px;
@@ -73,7 +73,7 @@
 
 }
 
-#Group-6{
+#Group-6LOGIN{
     position: absolute;
     width: 613px;
     height: 127.73px;
@@ -83,7 +83,7 @@
     opacity: 0px;
 
 }
-#pigup{
+#pigupLOGIN{
     position: absolute;
     width: 239.29px;
     height: 203.59px;
@@ -95,7 +95,7 @@
 }
 
 
-#Group-1{
+#Group-1LOGIN{
     position: absolute;
     height: 169px;
     top: 330px;
@@ -108,7 +108,7 @@
     align-items: center;
     justify-content: space-evenly;
 }
-#email{
+#emailLOGIN{
     background: transparent;
     border: none;
     outline: none;
@@ -117,14 +117,14 @@
     
 
 }
-#password{
+#passwordLOGIN{
     background: transparent;
     border: none;
     outline: none;
     border-bottom: 2px solid #FF7A00;
     width: 495px;
 }
-#Group-1 a{
+#Group-1LOGIN a{
     font-family: FONTSPRING DEMO - Lufga Light;
     font-size: 16px;
     font-weight: 300;
@@ -152,14 +152,14 @@
 
     
 }
-#Frame21{
+#Frame21LOGIN{
     position: absolute;
     top: 548px;
     left: 999px;
 
 }
 
-#Group-3{
+#Group-3LOGIN{
     position: absolute;
     width: 376px;
     height: 21px;
@@ -171,7 +171,7 @@
 
 
 }
-#facebook{
+#facebookLOGIN{
     position: absolute;
     width: 42px;
     height: 40px;
@@ -182,7 +182,7 @@
     cursor: pointer;
 
 }
-#google{
+#googleLOGIN{
     position: absolute;
     width: 40px;
     height: 40px;
