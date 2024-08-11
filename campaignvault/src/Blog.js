@@ -5,10 +5,13 @@ import Frame20 from './res/images/Frame20.svg';
 import searchButton from './res/images/searchButton.svg';
 import search  from './res/images/search.svg';
 import filter from './res/images/filter.svg'
+import Polygon1 from './res/images/Polygon1.svg'
+
 
 export default function Blog(){
     return(
         <div id="blogblog">
+            <img alt="polygon" id="polygon" src={Polygon1}></img>
             <img alt="filter" id="filterBLOG" src={filter}></img>
             <img alt="searchIcon" id="searchIconBLOG" src={search}></img>
             <img alt="search" id="searchButtonBLOG" src={searchButton}></img>
@@ -21,6 +24,12 @@ export default function Blog(){
             <Link to='/Contato'>Contato</Link>
             <Link to='/Sobre'>Sobre</Link>
             <Link to='/Criadores'>Criadores</Link>
+            </div>
+            <div  id='filterInactive'>
+                <label for="children1">mais visualizados<input type="checkbox" name="children1"></input></label>
+                <label for="children2">mais recentes<input type="checkbox" name="children2"></input></label>
+                <label for="children3">tutoriais<input type="checkbox" name="children3"></input></label>
+                <label for="children4">verificados<input type="checkbox" name="children4"></input></label>
             </div>
             <h2 id="h3blog">Latest <span>Posts</span></h2>
             <div id="contentBLOG">

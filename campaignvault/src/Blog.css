@@ -205,3 +205,103 @@
     color: white;
 
 }
+#campanhas{
+    position: absolute;
+    width: 131px;
+    height: 28px;
+    top: 63px;
+    left: 1179px;
+    gap: 0px;
+    opacity: 0px;
+    gap: 0px;
+    opacity: 0px;
+    text-decoration: none;
+    font-family: FONTSPRING DEMO - Lufga ExtraLight;
+    font-size: 21.72px;
+    font-weight: 200;
+    line-height: 28.35px;
+    letter-spacing: -0.015em;
+    text-align: left;
+    color: black;
+
+
+}
+#user{
+    position: absolute;
+    width: 22px;
+    height: 25px;
+    top: 59px;
+    left: 1322px;
+    padding: 4px 5px 4px 5px;
+    gap: 0px;
+    opacity: 0px;
+
+}
+#Ellipse3{
+    position: absolute;
+    width: 49.89px;
+    height: 49px;
+    top: 50px;
+    left: 1312.05px;
+    gap: 0px;
+    border: 1.78px 0px 0px 0px;
+    opacity: 0px;
+
+}
+#line6{
+    position: absolute;
+    top: 62px;
+    left: 1293px;
+
+
+}
+#filterInactive{
+    visibility: hidden;
+    position: absolute;
+    width: 302px;
+    height: 283px;
+    top: 269px;
+    left: 926px;
+    gap: 0px;
+    border-radius: 13px;
+    opacity: 0px;
+    z-index: 1;
+    background: #D8D8D8;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+
+
+}
+#filterInactive label{
+    position: relative;
+    font-family: FONTSPRING DEMO - Lufga ExtraLight;
+    font-size: 20px;
+    font-weight: 200;
+    display: flex;
+    justify-content: space-evenly;
+    left: 50px;
+    width: 200px;
+    align-items: center;
+
+    
+}
+#filterInactive input{
+    background: transparent;
+    position: absolute;
+    right: 0px;
+    top:5px;
+}
+#polygon{
+    visibility: hidden;
+    position: absolute;
+    top: 255px;
+    left: 1000px;
+    gap: 0px;
+    opacity: 0px;
+    cursor: pointer;
+
+
+}
